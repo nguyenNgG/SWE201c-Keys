@@ -1,0 +1,77 @@
+Q: What are some of the challenges with the Waterfall methods that prompted the software industry to come up with alternatives like Agile? (select 2)
+
+○ It is difficult to predict user/customer needs.
+○ Incorrect interpretations of requirements by developers go undetected for a long time. During user acceptance tests, these issues are discovered but it is very late.
+Projects were very complex and big.
+Projects cost too much.
+
+Q: Which of the following statements aligns with the value \"Working software over comprehensive documentation” of Agile manifesto?  (select any 2)
+
+○ Value delivering software over writing documentation.
+○ If documentation is absolutely essential then create it.
+An Agile coach says to the team “Documentation is of no use.”
+A manager tells the team: “Writing certain documentation is company policy so we must create them irrespective of its use.
+
+Q: Which one of the following statements/situations/conversations align with an Agile mindset?
+
+○ Manager: “The customer is suggesting another change in feature X which is complete as per specification. They agree that it was built as we agreed upon but it lacks some functionality and will result in user frustration. Should we implement the change or not?”Developer: “Yes, if it does not fulfill user needs, we should make the change.\"
+A software vendor says to a client: \"We must define exactly what the user needs and put that in agreement.\"
+A manager providing a status update to a customer says: “We are done with requirements and design so we are 50% done.”
+A manager e-mails her team: “Meeting face to face just for a 15 minute discussion is inefficient, let us all just dial-in from our desk.”
+
+Q: Which of the following is TRUE about lean startup? (select all that apply)
+
+○ Lean Startup concepts recommends to go through Build-Measure-Learn cycles as fast as you can.
+○ In Lean Startup, you try to validate/invalidate your assumptions (crucial for the success of your product) as fast as you can.
+Lean Startup concept is primarily applicable to startup companies. It is not applicable for bigger organizations.
+The concept of \"Validated Learning\" in Lean Startup means validating your learning and new ideas with your manager before you implement.
+
+Q: Which of following is valid on a Kanban Board? (select any 2)
+
+○ WIP limit for Step X is 3. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 2, and number of items in \"Done\" column is 1
+○ WIP limit for Step X is 5. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 3, and number of items in \"Done\" column is 1. One of the item in previous step is done and developer wants to move that item to Step X
+WIP limit for Step X is 3. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 4, and number of items in \"Done\" column is 0
+WIP limit for Step X is 3. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 2, and number of items in \"Done\" column is 1. One of the items in the previous step is done and developer wants to move that item to Step X
+WIP limit for Step X is 3. Step X is divided into \"Doing\" and \"Done.\" Number of items in \"Doing\" column is 3, and number of items in \"Done\" column is 2
+
+Q: Which of the following Framework/process model supports Agile Mindset? (select all that apply)
+
+○ Scrum
+○ DSDM
+○ Crystal
+○ Lean Startup
+○ Kanban
+○ XP
+Sashimi
+Waterfall
+V-Model
+
+Q: A software development team just started using Kanban. They had the following columns with WIP limit of 3 for each column on their Kanban board from left to right: Backlog(3), Analysis(3), Development(3), Testing(3), DeploymentThere are currently 3 items in Testing (3 items being tested)Similarly, there are 3 items in Development column (2 items are in development and 1 item is done being developed)One of the developers does not have anything to work on so the manager wants to add one more item to the development column so the developer looking for work can work on it.Which one of the following would be a valid action in this situation? (Select any 3)
+
+○ Team should get together and discuss if we should increase the WIP limit of the development column as we have more developers and it will be smoother flow if WIP limit of the Development column is increased.
+○ Add another tester in the Testing team so this bottleneck can be resolved quickly.
+○ Manager should ask the developer waiting for work to help the testers so that they can finish one of the items from their column and move it to Deployment column.
+The manager should ask the testers to move one of the items of the Test column temporarily to the Deployment column so that we can move items from the Development column. Later, we can move items back from the Deployment column to the Testing column.
+It does not make sense for the developer to wait before one of the items moved to another column. The manager should add one more item to the development column and no other change needed.
+
+
+Q: In Scrum, when is the sprint backlog created?
+
+○ During the sprint planning meeting
+At the beginning of the project
+Whenever needed
+During the backlog refinement meeting
+
+Q: In Scrum, how is Product Backlog Arranged?
+
+○ Most important items at the top, least important items at the bottom.
+Into categories, P1, P2, P3, etc.
+Items are randomly arranged
+Large items at the top, small items at the bottom
+
+Q: Which of the following is TRUE about Scrum? (Select all that apply)
+
+○ Scrum has fixed time-boxed development cycles called sprints.
+○ Scrum is an adaptive framework/model
+Scrum is the best way to implement the Agile mindset. Other Agile methods are not as effective.
+Daily Standup in Scrum is mainly for Scrum Master to get the status of the project.
