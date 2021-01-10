@@ -34,23 +34,23 @@ We should NOT release software to a production environment on a shorter timefram
 
 Q: Which of the following align with this principle:\" Working software is the primary measure of progress.\"
 
-X If a team has written the requirements and done the design for 5 out of 10 stories, then the team has made some progress (they are more than 0% done)
-If a team has delivered 5 features out of 10 features (or stories), team has made progress (they are more than 0% done)
+○ If a team has delivered 5 features out of 10 features (or stories), team has made progress (they are more than 0% done)
+If a team has written the requirements and done the design for 5 out of 10 stories, then the team has made some progress (they are more than 0% done)
 On a 10 month project, the team has been working for 5 months. Thus, the project is 50% complete.
 
 Q: In which of the following situations, would you NOT recommend using an agile process?
 
+○ For a project where change is not expected. requirements are well known, and the solution is both well known and repeatable.
 For a project where the customer wants to build an e-commerce website but the development team has never done something like this before. Further, the company knows that they want to build an e-commerce website but are not sure about the functionality at this time.
 For a project where the customer has an idea of what they want to build but is not sure of his/her exact needs.
-X For a project where requirements are well known but the technology and solution are unknown (i.e., changes expected in the solution).
-For a project where change is not expected. requirements are well known, and the solution is both well known and repeatable.
+For a project where requirements are well known but the technology and solution are unknown (i.e., changes expected in the solution).
 
 Q: Which of the following is true for agile projects?
 
-An agile methodology may help a team to go to market early by delivering with limited functionality.
+○ An agile methodology may help a team to go to market early by delivering with limited functionality.
 Agile methods do not require rework because the team knows exactly what they building. No refactoring of code is needed.
 If somebody says, they use an agile methodology, they must be doing either Scrum or XP.
-X Scrum is the best way to implement agile.
+Scrum is the best way to implement agile.
 
 Q: One of the core principles of agile is to \"Embrace Change\". This makes architecting and designing the system challenging since you don't know all of the requirements upfront. Thus, you have to be prepared to make architecture and design changes. To effectively embrace change, agile teams must learn how to keep the cost of change low.From the options below, select the ones that can help mitigate this challenge. (Select 3)
 
