@@ -1,0 +1,99 @@
+Q: The goal of test selection is to find the maximum number of tests that can be successfully run.
+
+True
+False
+
+Q: Randomly testing is the poorest form of testing.
+
+True
+False
+
+Q: The developer of the code is the best person to test that code.
+
+True
+False
+
+Q: Manually created tests can use randomly selected inputs to maximize defect finding.
+
+True
+False
+
+Q: Code coverage includes statement coverage, ensuring all code statements are executed at least once by at least one test case and all tests pass.
+
+True
+False
+
+Q: Requirements testing is difficult because the tests can't be created until the code is written, which is quite far into the development process.
+
+True
+False
+
+Q: Program testing helps find defects, but testing cannot prove there are no bugs. 
+
+True
+False
+
+Q: A test case is a set of inputs written to try and \"break the code\", i.e. find a defect.
+
+True
+False
+
+Q: Test obligations come from Structural Analysis, that is, from the code itself.
+
+True
+False
+
+Q: Tests which meet the code coverage criteria can still be poor tests.
+
+True
+False
+
+Q: New processes/reports are able to be added to the Jenkins Pipeline through plug-ins.
+
+True
+False
+
+Q: Continuous Integration alerts to submitting developer of build or test failure, but cannot remove the code committed.
+
+True
+False
+
+Q: Continuous Integration is a subset of the capabilities in a Continuous Delivery pipeline.
+
+True
+False
+
+Q: Pushing code to production without the need for developer action is one of the primary benefits of Continuous Delivery.
+
+True
+False
+
+Q: The difference between Continuous Delivery and Continuous Deployment is whether the deployment of code to production is manual or automated, respectively.
+
+True
+False
+
+Q: Canary is a system of alerts to developers based on build, test, release and/or deployment. The alerts are similar to \"tweets\" as on Twitter, hence the similarity of the names. 
+
+True
+False
+
+Q: Since the goal is for every test to pass, tests should only include inputs which will result in successful operation/behavior when executed on correct code.
+
+True
+False
+
+Q: The developer should first run the tests before adding anything new, as in to ensure that all tests passed before adding any new tests or code.
+
+True
+False
+
+Q: Continuous Delivery is an update to the Blue-Green Deployment paradigm. 
+
+True
+False
+
+Q: Statement coverage is the strongest form of code coverage, which is why it is required for many FAA and FDA regulated software projects.
+
+True
+False

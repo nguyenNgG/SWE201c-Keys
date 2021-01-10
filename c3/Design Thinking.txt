@@ -1,0 +1,34 @@
+Q: Which of the following are true about Design Thinking? Select 2.
+
+It recommends that a cross-functional team work together in the design thinking process.
+It consists of five steps: requirements, design, development, testing and deployment.
+It is a technique for designers to design software.
+It is a process for creative problem solving.
+
+Q: In design thinking, what are two of the main reasons to empathize with users?
+
+To build a good relationship with users.
+To discover the real problem to be solved.
+To make sure users know that we are building the solution for them.
+To prevent team member bias from impacting their understanding of the problem and influencing the solution.
+
+Q: Design thinking results in innovation by integrating which three things?
+
+Human Desirability
+Practical Ability
+Business Viability
+Technical Feasibility
+
+Q: What are the two dimensions for categorizing assumptions?
+
+Impact on our solution if it is wrong
+Probability that it will be right  
+Impact on our solution if it is right  
+Probability that it will be wrong
+
+Q: What are the two dimensions for categorizing tests?
+
+Cost/Effort of conducting a test
+Quality of data collected from the test
+Must have Tests
+Nice to have Tests

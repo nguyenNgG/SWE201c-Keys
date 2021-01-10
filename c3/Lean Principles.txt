@@ -1,0 +1,83 @@
+Q: In Lean software development, how can amplifying learning occur? (Select all that apply)
+
+The developers make different solutions, each with the exact same features.  
+The developers use short iterations.
+The developers write detailed specifications before writing code.
+The developers choose technologies that force them to learn new skills.  
+
+Q: How can waste arise in software development? (Select all that apply)
+
+Required features expected to be developed in a given time period are fully \"done\".  
+Knowledge about the developers' skills is shared among the team.  
+There are product defects found late in the development.
+Developers work on rarely used product features.  
+
+Q: In Lean software development, what does the principle of \"defer commitment\" mean?
+
+Decisions are made after having enough information from considering the alternatives.
+Decisions are made to choose the modern alternative.  
+Decisions are made to delay the product delivery to a later date.
+Decisions are made just before a deadline.  
+
+Q: In Lean software development, what does the principle of \"deliver fast\" mean?  (select 2 that apply)
+
+Iterations are short, so feedback is frequent, and product evolution is rapid.
+A simpler version of software product (an MVP - Minimum Viable Product) is developed first to reach the market rapidly.
+The software product is delivered rapidly via courier.
+Working alternatives are rapidly created.
+
+Q: Which of the following align with the lean principle of\"build quality in\"? (select 2 that apply)
+
+External inspectors determine whether the software product is high quality.
+Instead of focusing on refactoring every sprint, certain sprints are dedicated to focus on quality.  
+The developers refactor the source code to be simpler and easier to modify.  
+The developers apply practices to avoid or quickly catch errors while making the software product.  
+
+Q: In Lean software development, what does \"optimize the whole\" mean? (Select all the apply)
+
+The ability of a system to achieve its purpose depends on how well the parts work together, not just how well they perform individually.
+Rather than trying to optimize one part, look at the whole system for optimization opportunities.
+Leaders look at the whole picture while the other team members only look at the parts of the system.
+The whole software product is merely the sum of its individual features.
+
+Q: Which of the following tools can help you find waste in a process?
+
+Value Stream Mapping
+Kaizen
+Exploring multiple options
+5 Whys
+
+Q: What are some of the tools to amplify learning? (Select all that apply)
+
+Daily Builds and Smoke Tests
+Set Based Development
+Iteration
+Sustainable development
+
+Q: How do you deliver fast (i.e reduce cycle time) without compromising the quality?
+
+Have people work on multiple things at the same time.
+Finish the work and leave quality for later.
+Ask people to work overtime.
+Minimize the number of items in-process.
+
+Q: \"The Last Responsible Moment\" is a tool for which Lean Software Principle?
+
+Empower People
+Defer Commitment
+Deliver Fast
+See the Whole
+
+Q: Lean helps increase productivity by:
+
+Increasing inputs to directly increase outputs.
+Giving staff more work to help create more output.
+Reducing the amount of useless activity that our resources (the team members) are currently burdened with.
+Adding additional resources to help decrease the burden of the workload.
+
+Q: Which practices waste time during software development? (Choose two)
+
+Everyone is aware of the progress through an updated Kanban board.
+Delays in receiving work products.
+The working software is shown to the client, who offers constructive feedback.
+Weekly meetings that are held whether or not they are needed.

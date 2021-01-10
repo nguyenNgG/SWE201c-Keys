@@ -1,0 +1,102 @@
+Q: What is the main goal of the Build-Measure-Learn Cycle?
+
+To go through the build-measure-learn cycle as fast as possible.
+To make sure we do quality work through every step of this cycle.
+To go through the build-measure-learn cycle as cheaply as possible.
+To make sure we get lot of work done effectively in this cycle.
+
+Q: What do we mean by Validated Learning?
+
+Launch a product and then decide what we want to measure to validate.
+Validating the assumptions by conducting an experiment and collecting data.
+Listening to what the customer is saying.
+Validate what you learned from your product with company leaders.
+
+Q: Which of the following are principles of Lean startup?  Select all that apply.
+
+Invest as little as possible and build inexpensive products
+Validated Learning
+Entrepreneurs are everywhere
+Innovation Accounting
+
+Q: Which of the following are true about Lean Startup?  Select two.
+
+It is a concept applicable to startup companies only.
+It is the best method to use for all kinds of development.
+It is based on going through the Build-Measure-Learn cycle as fast as you can.
+It relies on actual data rather than gut feelings to validate assumptions or ideas.
+
+Q:  Why are traditional management principles ill-suited to the world of startups?
+
+Because startups face chaos and uncertainty.  
+Because startups can only be built with a “just do it” attitude.
+Because building a startup is not the same as institution building.  
+
+Q: When a startup 'pivots', what is it doing?
+
+Ignoring its vision.  
+Employing a revised strategy in an attempt to achieve its vision.  
+Optimizing its product.  
+
+Q: According to Ries, which of the following adjectives describes good startup metrics? Select all that apply.
+
+Actionable  
+Accessible  
+Audience-Focused
+Auditable  
+
+Q: Which of the following are levels of Pirate Metrics? Select all that apply.
+
+Revenue
+Activation
+Acquisition
+Registration
+Referral
+Retention
+
+Q: Which of the following are true about Pivot or Persevere? Select two.
+
+Platform pivot: A change from an application to a platform or vice versa.   
+Pivot means to close the startup company and start a new one.
+Customer segment pivot: The product hypothesis is partially confirmed; it solves the right problem but for a different customer than originally anticipated.
+Zoom-out pivot: What was previously considered a single feature in a product becomes the whole product.
+
+Q: How do Vanity metrics prevent/inhibit pivoting?
+
+Vanity metrics allow entrepreneurs to draw incorrect conclusions.  Based on these metrics, they assume that the product is going in the right direction when it really isn't.   
+Vanity metrics are the metrics that matter.
+Vanity metrics are designed by leadership so no pivoting is necessary.
+Vanity metrics are user-based collection which is always the right metrics to measure. 
+
+Q: What are three ways that a past customer can drive sustainable growth?
+
+By reporting defects in your product
+Word-of-mouth referral
+As side advertising due to usage of the product
+Repeat purchase
+
+Q: What are the characteristics of  \"Early Adopters\"?
+
+Early adopters are actively seeking a solution to the problem your product solves.
+They use the product only if it is reliable and of good quality.
+They only use your product if it is free.
+Early adopters will give you their time and honest feedback.
+
+Q: What are leap-of-faith assumptions?
+
+Assumptions that are the riskiest elements of a startup plan.
+Assumptions that, if true, would result in a lot of revenue.
+Assumptions that the organization made after getting the blessing of the stakeholders.
+
+Q: Which of these attributes are favored by Lean startup? Select two.
+
+Customer feedback  
+Elaborate upfront planing  
+Experimentation and Iteration  
+Waterfall development  
+
+Q: Who is an \"Intrapreneur\" ?
+
+Entrepreneurs that work with other entrepreneurs.
+A manager who promotes innovations within the company.
+The opposite of an entrepreneur: someone who prevents innovation.
