@@ -1,0 +1,72 @@
+Q: What is true about user stories in Agile Software Development?  (Select any 3)
+
+○ User stories are tokens for conversations.
+○ Stories can be written at different levels and can be refined and split into smaller stories as you move from vague idea to implemented software.
+○ User stories are used to plan, design, describe, build, and validate your product.
+To be valid, a story MUST follow the following syntax template: \"As a ____ I want to _______________ so that ____________________ .\"
+All stories have to be the same size.
+
+Q: What are some of the benefits of writing acceptance tests for a story?  (select 4)
+
+○ They can potentially help you split stories, if required.
+○ They help the product owner (who is writing the story) think through the user needs.
+○ They help build a common understanding between team members.
+○ They help you write tests cases for the story.
+They make sure the story is easy to develop.
+
+Q: What is wrong with the following story? (Select any 2)\"As a product owner, I want a list of highly-rated restaurants on the brochure.\"
+
+○ It doesn't specify the value of the story (the \"why\" is missing).
+○ The user who benefits from this story is missing (the \"who\" is missing).
+The story is not small.
+The story is not negotiable.
+
+Q: What is wrong with following user story?  (Select any 2)\"I want the software to be easy to use.\"
+
+○ No valid user is identified.
+○ It is not testable.
+The story is not valuable.
+The story is very big.
+
+Q: How is gathering user needs / requirements different on an agile project?  (select any 3)
+
+○ At any given time, the level of detail may be different for different parts of the software.
+○ The agile way supports progressive refinement---defining the right level of detail at the right time.
+○ Agile encourages conversations as a key method for building a shared understanding.
+In agile, we don't waste time on understanding user needs. Instead, we build something, show it to the user, and learn.
+
+Q: What are some of the activities that happen during a User Story Writing Workshop?  (Select any 4)
+
+○ Everybody silently writes user stories around a theme
+○ To generate stories, one of the options is to start from the top down or bottom up.
+○ User role analysis and defining personas
+○ Sometimes, you keep it free-form for people to write stories and later group them by theme.
+The leaders from the organization lay out exactly what needs to be built.
+
+Q: Which of the following are true about the Story Mapping technique? (select 3)
+
+○ It is a user-centric approach where we map out the system from a user's perspective.
+○ The horizontal axis (moving from left to right) in a story map represents time.
+○ The vertical axis (moving from top to bottom) in a story map represents rough priority.
+One story map can only have one user. It is not recommended to have multiple users on same story map.
+Only the product owner and users attend the story mapping exercise.
+
+Q: Due to an unpredictable market event, the Product Owner (PO) asked the team to complete the next release in 6 weeks. Assuming the backlog in Table 2 is up to date and prioritized from highest to lowest, the Product Owner wants you to estimate what can be done in next 6 weeks. Describe 1) what can be done, 2) what might be done, and 3) what will not be done.The velocity range to be used for the release planning is 15-22.The team works in 2 week iteration.Table 2: Prioritized Product BacklogStory TitleEstimate (in ideal days)Story 15Story 25Story 38Story 43Story 55Story 65Story 7 3Story 85Story 98Story 108Story 113Story 123Story 133Story 145Story 15 8Story 163Story 175Story 185Story 198Story 208
+
+Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories
+Most likely: Story 1 to Story 11; Might be Done: Story 12 and 13; Not likely: Rest of the stories
+X Most likely: Story 1 to Story 9; Might be Done: Story 10; Not likely: Rest of the stories
+
+Q: What is true about planning with an agile mindset?  (Select any 2)
+
+○ Plan just enough, just in time.
+○ Use Adaptive Planning.
+Planning is mostly done by project manager.
+Plan as little as you can. Planning is considered a non-productive activity.
+
+Q: What do we mean by Velocity in agile terms?
+
+It is calculated at the team level and represents the estimated duration of current iteration.
+It represents actual work done in the first iteration of project.
+It is calculated at the team level and represents how much work a team can get done in an iteration.
+X It is a velocity of the individual team members, not the team

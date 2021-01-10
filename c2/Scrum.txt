@@ -1,0 +1,76 @@
+Q: Which of the following is true about Scrum? 
+
+○ In the daily stand-up, everybody talks about what they worked on, what they are planning to work on, and any impediments they have.
+○ Burn-down and Burn-up charts help the team track the progress of the current sprint.
+In a Sprint Retrospective, we talk about what we built, demo it, and get customer/client feedback.
+In a Sprint Review, we talk about process and talk about what worked, what didn't work, and how we can improve.
+It is encouraged to make iteration scope changes during the sprint.
+
+Q: Which of the following is TRUE about Scrum? (Select two)
+
+○ Scrum is an adaptive model.
+○ Scrum has fixed, time-boxed development cycles called sprints.
+The daily stand-up in scrum is mainly for the scrum master to get the status of the project.
+Scrum is the best way to implement the agile mindset. Other Agile methods are not as effective.
+
+Q: You are a developer on a scrum team. Your scrum master invited you to attend a sprint planning meeting. Which of following activities would you expect in that meeting?
+
+○ Either during the meeting or afterwards, developers create tasks to further solidify what work needs to be done and make final a work commitment for the sprint.
+○ The developers/testers provide a high-level estimate for stories.
+○ The team will select the stories to work on for next iteration (sprint).
+○ The product owner (or equivalent) shares the top priority stories for the sprint.
+○ The developers/testers ask questions to understand the stories.
+The team talks about what went well and what didn’t go well in the sprint.
+
+Q: You need to calculating a team member's capacity for an iteration.  Which of the following activities should be EXCLUDED from the committed capacity of the team member?
+
+○ Paid time off (PTO)
+○ Organizational Meetings
+○ Sprint Ceremonies
+Time spent on defects
+Basic support for the product
+Helping other team members
+
+Q: What should happen in the sprint review meeting?
+
+○ What happened during the Sprint is reported.
+○ A potentially shippable product increment is demonstrated live.
+○ Feedback is gathered from stakeholders resulting in additional items added to the product backlog.
+Presentation slides are shown about hypothetical things.
+
+Q: The CEO asks a team member to do some work outside the goals of the current sprint in progress. What should the team member do?
+
+Add it to the next sprint.
+X Add it to the current sprint while swapping out committed work of equal size.
+Inform the product owner so he can work with the CEO and if it is still necessary to get this work done in current sprint, it should be discussed with in the team.
+Add it to the current sprint.
+
+Q: When is a sprint complete?
+
+X When all tasks are complete.
+When all committed product backlog items meet their definition of done.
+It depends.
+When the sprint duration ends.  For example, if sprints are 2 weeks long, then the sprint is complete at the end of those 2 weeks.
+
+Q: Which of the following are goals of the daily stand-up meeting?
+
+○ Identify impediments.
+○ Share status information.
+○ Set team direction and synchronize the day’s activities.
+Report progress to the manager.
+Assign work to people.
+Remove every single impediment in this meeting.
+
+Q: Which of following is true about Sprint Reviews?
+
+Only team members attend the Sprint Review.
+X The Sprint Review is to show stakeholders the documentation and design. The demo should be given to customer before the sprint review.
+Individual team members should be encouraged to demo the work they did.
+The Sprint Review should be done every week even if your sprint duration is 3 weeks or longer.
+
+Q: Which of the following statements are true about the Sprint Retrospective? (select all that apply)
+
+○ It is important to follow up on action items the team decided to work on.
+○ Team members should avoid blaming (finger pointing) other team members in the retrospective.
+Managers should be required to attend retrospectives so they know what problems team members have.
+There is one format you should use to conduct retrospectives: What's working, what's not working, and what can we do better?
