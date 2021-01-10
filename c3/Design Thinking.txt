@@ -31,4 +31,4 @@ Q: What are the two dimensions for categorizing tests?
 ○ Cost/Effort of conducting a test
 ○ Quality of data collected from the test
 Must have Tests
-Nice to have Tests
+Nice to have Tests 
