@@ -56,23 +56,23 @@ Sustainable development
 
 Q: How do you deliver fast (i.e reduce cycle time) without compromising the quality?
 
-X Have people work on multiple things at the same time.
+○ Minimize the number of items in-process.
+Have people work on multiple things at the same time.
 Finish the work and leave quality for later.
 Ask people to work overtime.
-Minimize the number of items in-process.
 
 Q: \"The Last Responsible Moment\" is a tool for which Lean Software Principle?
 
 X Empower People
+X Deliver Fast
 Defer Commitment
-Deliver Fast
 See the Whole
 
 Q: Lean helps increase productivity by:
 
-X Increasing inputs to directly increase outputs.
+○ Reducing the amount of useless activity that our resources (the team members) are currently burdened with.
+Increasing inputs to directly increase outputs.
 Giving staff more work to help create more output.
-Reducing the amount of useless activity that our resources (the team members) are currently burdened with.
 Adding additional resources to help decrease the burden of the workload.
 
 Q: Which practices waste time during software development? (Choose two)

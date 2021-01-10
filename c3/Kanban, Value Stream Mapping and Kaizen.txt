@@ -1,16 +1,16 @@
 Q: The 5 \"Whys\" to be considered during a Root Cause Analysis are...?
 
-X Who, What, When, Where and Why  
+○ Why, Why, Why, Why and Why  
+Who, What, When, Where and Why  
 Who, Why, Why not, When, What
 Who, Who, Who, Who, and Who  
-Why, Why, Why, Why and Why  
 
 Q: What is the purpose of the Lean tool 'Kaizen'?
 
-X To analyze the forces supporting or resisting a particular change.
+○ An improvement activity to create more value and remove waste.
+To analyze the forces supporting or resisting a particular change.
 To ensure that the workstation does not make anything until the next work center requests supply.
 To create a map of the physical path taken by the product as it passes through the process.
-An improvement activity to create more value and remove waste.
 
 Q: Which of the following can be used to do 5 Whys analysis?
 

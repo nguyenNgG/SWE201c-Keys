@@ -7,8 +7,8 @@ To make sure we get lot of work done effectively in this cycle.
 
 Q: What do we mean by Validated Learning?
 
-X Launch a product and then decide what we want to measure to validate.
-Validating the assumptions by conducting an experiment and collecting data.
+○ Validating the assumptions by conducting an experiment and collecting data.
+Launch a product and then decide what we want to measure to validate.
 Listening to what the customer is saying.
 Validate what you learned from your product with company leaders.
 
@@ -34,8 +34,8 @@ Because building a startup is not the same as institution building.
 
 Q: When a startup 'pivots', what is it doing?
 
-X Ignoring its vision.  
-Employing a revised strategy in an attempt to achieve its vision.  
+○ Employing a revised strategy in an attempt to achieve its vision.  
+Ignoring its vision.  
 Optimizing its product.  
 
 Q: According to Ries, which of the following adjectives describes good startup metrics? Select all that apply.
@@ -97,6 +97,6 @@ Waterfall development
 
 Q: Who is an \"Intrapreneur\" ?
 
-X Entrepreneurs that work with other entrepreneurs.
-A manager who promotes innovations within the company.
+○ A manager who promotes innovations within the company.
+Entrepreneurs that work with other entrepreneurs.
 The opposite of an entrepreneur: someone who prevents innovation.
