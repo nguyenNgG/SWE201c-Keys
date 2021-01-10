@@ -1,48 +1,48 @@
 Q: The 5 \"Whys\" to be considered during a Root Cause Analysis are...?
 
-Who, What, When, Where and Why  
+X Who, What, When, Where and Why  
 Who, Why, Why not, When, What
 Who, Who, Who, Who, and Who  
 Why, Why, Why, Why and Why  
 
 Q: What is the purpose of the Lean tool 'Kaizen'?
 
-To analyze the forces supporting or resisting a particular change.
+X To analyze the forces supporting or resisting a particular change.
 To ensure that the workstation does not make anything until the next work center requests supply.
 To create a map of the physical path taken by the product as it passes through the process.
 An improvement activity to create more value and remove waste.
 
 Q: Which of the following can be used to do 5 Whys analysis?
 
-A fishbone diagram
+○ A fishbone diagram
 A sin diagram
 A node graph
 A grid diagram
 
 Q: In Kanban, a developer pulls the next item to work on from the:
 
-previous column on the board
+○ previous column on the board
 managers who determine which tasks will be performed
 product backlog
 clients determining the tasks
 
 Q: You are a developer on a team using a Kanban board to manage flow. You work on Step X within the process and it just so happens that you are looking for more work.The Kanban board is set up as follows:Step X has a WIP limit of 3.Step X is divided into \"Doing\" and \"Done.\"The number of items in the \"Doing\" column is 2.The number of items in the \"Done\" column is 1.Without violating the rules of the Kanban board, what should you do? Select all that apply.
 
+○ Help the group (that picks work from the following column) finish their work so they can pull an item from the \"Done\" column of Step X. That will allow you to pick an item from the previous step. 
+○ Talk to the team about adjusting the WIP limit because increasing the WIP limit will create a better flow of work. 
 Ignore the WIP limit of 3. Pick the next item to work on from the previous column.
-Help the group (that picks work from the following column) finish their work so they can pull an item from the \"Done\" column of Step X. That will allow you to pick an item from the previous step. 
-Talk to the team about adjusting the WIP limit because increasing the WIP limit will create a better flow of work. 
 Push the done item to the next column/step without considering the WIP limit of the next column/step.
 
 Q: Which of the following statements are true about Value Stream Mapping? Select all that apply.
 
+○ Cycle Time is the total time taken for Value Stream.
+○ Value-added activities are activities that add value from the customer perspective.
 There is no need to identify the non-value-added map as it does not add value for the customer.
 It is recommended that you go to the place where work is happening because that will distract the people working and will skew your value stream map.
-Cycle Time is the total time taken for Value Stream.
-Value-added activities are activities that add value from the customer perspective.
 
 Q: What is the formula to calculate the Process Cycle Efficiency?
 
-Value Added Time / Cycle Time 
+○ Value Added Time / Cycle Time 
 Value Added Time / Non Value Added Time
 (Value Added Time - Non Value Added Time) / Total Cycle Time
 Value Added Time - Non Value Added Time
