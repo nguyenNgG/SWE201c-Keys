@@ -1,7 +1,8 @@
 Q: 12345678class Airplane {private:     int customerCapacity;     string _Manufacturer;public:     Airplane (int capacity, string manufacturer);     int load_Customers(Customer *);};Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_1:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_1:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_1:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_1:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_1 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_1 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_1 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_1 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_1:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_1.drop-target,\n\t\t\t\t.monaco-list.list_id_1 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_1 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Which of the following are style errors for the code on Line 2?
 
+○ order of access restrictions
+○ indentation
 variables should be public
-order of access restrictions
 variable name should be lowercase
 method names should be separated by hyphens
 method names should be lower case
@@ -10,7 +11,6 @@ method Airplane should be private
 variable name should be separated by underscore
 class name should be lowercase
 variable should have no underscore
-indentation
 Spacing between elements
 variable name should be uppercase
 method names should be CamelCase
@@ -18,32 +18,32 @@ variable should have trailing underscore
 
 Q: 123456789class Airplane {private:     int customerCapacity;     string _Manufacturer;public:     Airplane (int capacity, string manufacturer);     int load_Customers(Customer *);}; Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_2:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_2:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_2:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_2:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_2:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_2 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_2 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_2 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_2 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_2:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_2.drop-target,\n\t\t\t\t.monaco-list.list_id_2 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_2 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Which of the following are style errors for the code on Line 3?
 
+○ variable name should be lowercase
+○ Spacing between elements
+○ variable name should be separated by underscore
+○ variable should have trailing underscore
 variable should have no underscore
 variables should be public
 method names should be CamelCase
 order of access restrictions
 variable name should be uppercase
-variable name should be lowercase
 indentation
 variable name should not be separated
 class name should be lowercase
-variable name should be separated by underscore
-Spacing between elements
 method names should be lower case
 method Airplane should be private
 method names should be separated by hyphens
-variable should have trailing underscore
 
 Q: 123456789class Airplane {private:     int customerCapacity;     string _Manufacturer;public:     Airplane (int capacity, string manufacturer);     int load_Customers(Customer *);}; Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_3:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_3:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_3:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_3:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_3:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_3 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_3 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_3 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_3 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_3:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_3.drop-target,\n\t\t\t\t.monaco-list.list_id_3 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_3 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Which of the following are style errors for the code on Line 4?
 
+○ variable should have trailing underscore
+○ variable name should be lowercase
 Spacing between elements
 variable name should not be separated
 method names should be CamelCase
-variable should have trailing underscore
 method names should be separated by hyphens
 indentation
 variable name should be separated by underscore
-variable name should be lowercase
 variables should be public
 order of access restrictions
 method Airplane should be private
@@ -54,6 +54,8 @@ method names should be lower case
 
 Q: 123456789class Airplane {private:     int customerCapacity;     string _Manufacturer;public:     Airplane (int capacity, string manufacturer);     int load_Customers(Customer *);}; Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_4:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_4:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_4:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_4:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_4:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_4 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_4 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_4 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_4 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_4:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_4.drop-target,\n\t\t\t\t.monaco-list.list_id_4 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_4 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Which of the following are style errors for the code on Line 5?
 
+○ order of access restrictions
+○ indentation
 variables should be public
 variable should have no underscore
 variable name should be uppercase
@@ -65,13 +67,12 @@ variable name should be separated by underscore
 class name should be lowercase
 variable name should not be separated
 variable should have trailing underscore
-order of access restrictions
-indentation
 variable name should be lowercase
 method names should be separated by hyphens
 
 Q: 123456789class Airplane {private:     int customerCapacity;     string _Manufacturer;public:     Airplane (int capacity, string manufacturer);     int load_Customers(Customer *);}; Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_5:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_5:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_5:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_5:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_5:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_5 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_5 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_5 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_5 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_5:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_5.drop-target,\n\t\t\t\t.monaco-list.list_id_5 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_5 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Which of the following are style errors for the code on Line 6?
 
+○ Spacing between elements
 variables should be public
 variable name should be uppercase
 variable name should be lowercase
@@ -80,7 +81,6 @@ method Airplane should be private
 order of access restrictions
 class name should be lowercase
 method names should be separated by hyphens
-Spacing between elements
 variable should have trailing underscore
 method names should be lower case
 indentation
@@ -90,11 +90,11 @@ variable should have no underscore
 
 Q: 123456789class Airplane {private:     int customerCapacity;     string _Manufacturer;public:     Airplane (int capacity, string manufacturer);     int load_Customers(Customer *);}; Enter to Rename, Shift+Enter to Preview.monaco-list.list_id_6:focus .monaco-list-row.focused { background-color: #d6ebff; }\n.monaco-list.list_id_6:focus .monaco-list-row.focused:hover { background-color: #d6ebff; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected { background-color: #0069d1; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected:hover { background-color: #0069d1; }\n.monaco-list.list_id_6:focus .monaco-list-row.selected { color: #ffffff; }\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_6:focus .monaco-list-row.selected.focused { background-color: #0074e8; }\n\t\t\t\n\n\t\t\t\t.monaco-drag-image,\n\t\t\t\t.monaco-list.list_id_6:focus .monaco-list-row.selected.focused { color: #ffffff; }\n\t\t\t\n.monaco-list.list_id_6 .monaco-list-row.focused { background-color:  #d6ebff; }\n.monaco-list.list_id_6 .monaco-list-row.focused:hover { background-color:  #d6ebff; }\n.monaco-list.list_id_6 .monaco-list-row.selected { background-color:  #e4e6f1; }\n.monaco-list.list_id_6 .monaco-list-row.selected:hover { background-color:  #e4e6f1; }\n.monaco-list.list_id_6:not(.drop-target) .monaco-list-row:hover:not(.selected):not(.focused) { background-color:  #f0f0f0; }\n\n\t\t\t\t.monaco-list.list_id_6.drop-target,\n\t\t\t\t.monaco-list.list_id_6 .monaco-list-rows.drop-target,\n\t\t\t\t.monaco-list.list_id_6 .monaco-list-row.drop-target { background-color: #d6ebff !important; color: inherit !important; }\n\t\t\t\n.monaco-list-type-filter { background-color: #efc1ad }\n.monaco-list-type-filter { border: 1px solid rgba(0, 0, 0, 0); }\n.monaco-list-type-filter.no-matches { border: 1px solid #be1100; }\n.monaco-list-type-filter { box-shadow: 1px 1px 1px #a8a8a8; }Which of the following are style errors for the code on Line 7?
 
+○ method names should be CamelCase
 method names should be lower case
 Spacing between elements
 variable name should be uppercase
 variable should have no underscore
-method names should be CamelCase
 order of access restrictions
 method Airplane should be private
 method names should be separated by hyphens
@@ -109,40 +109,40 @@ variables should be public
 Q: Using a debugger can find all defects in code.
 
 True
-False
+○ False
 
 Q: What is created to allow a compiler to temporarily stop processing code that is being executed to allow for the developer to see current state?
-":[]},{"Q: Commits should happen only at the end of a daily coding session.
+Q: Commits should happen only at the end of a daily coding session.
 
 True
-False
+○ False
 
 Q: Only one line of code should change per commit.
 
 True
-False
+○ False
 
 Q: Commit messages are only helpful to you at the time you make them.
 
 True
-False
+○ False
 
 Q: Branching aids developers seeking to work on the same code simultaneously.
 
-True
+○ True
 False
 
 Q: Project materials are stored in a remote repository through the WebHook functionality.
 
 True
-False
+○ False
 
 Q: Compilers perform static analysis.
 
-True
+○ True
 False
 
 Q: Static analysis can only be performed while code is being executed.
 
 True
-False
+○ False

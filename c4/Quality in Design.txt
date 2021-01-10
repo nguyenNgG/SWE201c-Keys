@@ -1,6 +1,6 @@
 Q: The logical (intended) dependency is that observer depends on subject.
 
-True
+○ True
 False
 
 Q: Up until now, the great state of Foo has held a lottery to help fund education in the state. The corporation tasked with the drawing of these numbers (the non-televised ones) is XYZ Numerical Tasking.  You are the technical lead for the system which handles the drawings for the state's lotteries. One of your developers, with a mathematical tilt, comes to you with a proposal: change how the random numbers are generated. He suggests that the generation of random numbers could be better. NASA has released a random number generator which has been proven to be better than the one used by the company. He suggests that you make the change. One of your more senior developers notes that using the new generator will require a change. He suggests that the team connect the existing lotto system, as seen in Figure 1, to the new generator (Figure 2) using the Facade pattern. Figure 1 Figure 2 Facade, which seeks to simplify complex processes for a client by providing a API which hides the complicated calls/work needed, doesn't seem to fit.  What pattern does?
@@ -8,7 +8,7 @@ Q: Within the Custodial Management System, there are are a variety of items that
 Q: Early in our proof-of-concept work on the new game we are building, we effectively hard-coded the game to ask the user what action to take next, for both players. In this case, both users are tied into a single account, so that we can play against ourselves while we build out the game.Now, however, we want to add a new player type to the system, EasyDifficultyBot. While the \"player\" actions fit the same high-level format for both humans and our AI, the details of making it happen vary pretty widely.In order to allow for this change, we want to make use of a pattern that will allow this kind of expansion while minimizing changes to the existing code.What pattern would be best here?
 Q: Consider the statement \"In the Strategy pattern, the context should hold references to the ConcreteStrategies.\"Under what circumstances would this be true? Select all that apply.
 
-When the context is tasked with deciding which strategy to use
+○ When the context is tasked with deciding which strategy to use
 When using a Factory object to create Strategies
 Under no circumstances should the Context hold references to the ConcreteStrategies
 When the client is tasked with deciding which strategy to use
@@ -17,26 +17,26 @@ When the Strategy base class uses a static method to return the correct derived 
 Q: In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.
 
 True
-False
+○ False
 
 Q: Once a class has been had an Adapter pattern solution applied, it cannot be adapted again.
 
 True
-False
+○ False
 
 Q: Factories are no longer useful when you apply the Strategy Pattern to a family of algorithms.
 
 True
-False
+○ False
 
 Q: Observer is an implementation of the Dependency Inversion principle.
 
-True
+○ True
 False
 
 Q: Strategy Pattern helps maintain the Open/Closed Principle.
 
-True
+○ True
 False
 
 Q: Notes: For questions 11-14, the diagram is a standard UML Class Diagram. You can view a larger version by right clicking and selecting \"View image\" (or similar) or by holding on the image and selecting \"Open image in new tab\" (or similar) if you're on mobile. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).For the following class diagram, calculate the Instability value for the Bus class. 
