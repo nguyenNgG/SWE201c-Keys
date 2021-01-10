@@ -63,9 +63,9 @@ Ask people to work overtime.
 
 Q: \"The Last Responsible Moment\" is a tool for which Lean Software Principle?
 
-X Empower People
-X Deliver Fast
-Defer Commitment
+○ Defer Commitment
+Empower People
+Deliver Fast
 See the Whole
 
 Q: Lean helps increase productivity by:
