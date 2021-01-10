@@ -53,9 +53,9 @@ Only the product owner and users attend the story mapping exercise.
 
 Q: Due to an unpredictable market event, the Product Owner (PO) asked the team to complete the next release in 6 weeks. Assuming the backlog in Table 2 is up to date and prioritized from highest to lowest, the Product Owner wants you to estimate what can be done in next 6 weeks. Describe 1) what can be done, 2) what might be done, and 3) what will not be done.The velocity range to be used for the release planning is 15-22.The team works in 2 week iteration.Table 2: Prioritized Product BacklogStory TitleEstimate (in ideal days)Story 15Story 25Story 38Story 43Story 55Story 65Story 7 3Story 85Story 98Story 108Story 113Story 123Story 133Story 145Story 15 8Story 163Story 175Story 185Story 198Story 208
 
-Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories
+○ Most likely: Story 1 to Story 8; Might Be Done: Story 9 to Story 13; Not likely: Rest of the stories
 Most likely: Story 1 to Story 11; Might be Done: Story 12 and 13; Not likely: Rest of the stories
-X Most likely: Story 1 to Story 9; Might be Done: Story 10; Not likely: Rest of the stories
+Most likely: Story 1 to Story 9; Might be Done: Story 10; Not likely: Rest of the stories
 
 Q: What is true about planning with an agile mindset?  (Select any 2)
 
@@ -66,7 +66,7 @@ Plan as little as you can. Planning is considered a non-productive activity.
 
 Q: What do we mean by Velocity in agile terms?
 
+○ It is calculated at the team level and represents how much work a team can get done in an iteration.
 It is calculated at the team level and represents the estimated duration of current iteration.
 It represents actual work done in the first iteration of project.
-It is calculated at the team level and represents how much work a team can get done in an iteration.
-X It is a velocity of the individual team members, not the team
+It is a velocity of the individual team members, not the team

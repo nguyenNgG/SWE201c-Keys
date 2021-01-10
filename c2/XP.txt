@@ -1,15 +1,15 @@
 Q: Which of the following is the right sequence when developing software using the XP practice of Test First Programming?
 
-X Write codeWrite a test Make the test passRefactor as necessary
-Write a testMake sure the test failsWrite enough code so the test passesRefactor as necessary
-DesignWrite codeWrite a test
-Write codeRefactor as necessaryWrite a testMake the test pass
+○ Write a test Make sure the test fails Write enough code so the test passes Refactor as necessary
+Write code Write a test Make the test pass Refactor as necessary
+Design Write code Write a test
+Write code Refactor as necessary Write a test Make the test pass
 
 Q: Which XP practice prescribes that \"the code [always be] written by two programmers at one machine\"?
 
-X Buddy Programming
+○ Pair Programming
+Buddy Programming
 Peer Programming
-Pair Programming
 Twin Programming
 
 Q: Which of the following are primary practices prescribed by XP?
@@ -22,31 +22,31 @@ Weekly Retrospectives
 
 Q: One of the practices of XP is \"Whole Team\".  Which of the following statements align with its meaning?
 
-X The whole team should be working together to meet the team's commitment
+○ All the skills necessary to deliver the software product should be present on the team. 
+The whole team should be working together to meet the team's commitment
 The whole team should always sit together in a room.
-All the skills necessary to deliver the software product should be present on the team. 
 The whole team should be energized and passionate about the product they are building.
 
 Q: If an XP team cannot provide an estimate for a story, what should they do to gain a better understanding of the story?
 
-X Skip that story and exclude that story from the release.
-Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story.
+○ Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story.
+Skip that story and exclude that story from the release.
 No action required; keep the story with no estimates.
 Provide their best guess based on what they know.
 
 Q: According to XP's principles, what should you do when a story's acceptance test fails?
 
+○ Create a bug report so it can be fixed.
 Release the software without fixing; a few bugs are ok.
 Extend the iteration's duration so the bug(s) can be fixed in the same iteration.
-X As a team, update the acceptance test so the test passes.
-Create a bug report so it can be fixed.
+As a team, update the acceptance test so the test passes.
 
 Q: What activities occur as part of XP's \"Weekly Planning\" practice?
 
-Planning who is going to facilitate meetings for the rest of the week
 ○ Selecting the next week's work.
 ○ Breaking stories into smaller tasks.
 ○ Reviewing the previous week's progress.
+Planning who is going to facilitate meetings for the rest of the week
 
 Q: According to the concept of \"Whole Team\", which of the following statements are true?
 
@@ -57,14 +57,14 @@ The team members never change. Once a team member is part of the team, that team
 
 Q: An XP team is getting feedback more frequently than they can handle. What should they do?
 
-X Further increase the frequency and quantity of feedback.
-Slow down the frequency of feedback.
+○ Slow down the frequency of feedback.
+Further increase the frequency and quantity of feedback.
 Ignore the extra feedback. 
 Work extra hours each day to address all of the feedback. 
 
 Q: Which of the following statements are true about the XP value of \"Simplicity\"?
 
-X No matter what you are building,  just choose a simple design even if it only partially solves the problem.
-Select the simplest design that could possibly work.
+○ Select the simplest design that could possibly work.
 Generalize your solution so it can work for unanticipated future requests.
+No matter what you are building,  just choose a simple design even if it only partially solves the problem.
 The software design for each component should fit on a single page.

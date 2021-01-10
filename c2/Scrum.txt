@@ -40,17 +40,17 @@ Presentation slides are shown about hypothetical things.
 
 Q: The CEO asks a team member to do some work outside the goals of the current sprint in progress. What should the team member do?
 
+○ Inform the product owner so he can work with the CEO and if it is still necessary to get this work done in current sprint, it should be discussed with in the team.
 Add it to the next sprint.
-X Add it to the current sprint while swapping out committed work of equal size.
-Inform the product owner so he can work with the CEO and if it is still necessary to get this work done in current sprint, it should be discussed with in the team.
+Add it to the current sprint while swapping out committed work of equal size.
 Add it to the current sprint.
 
 Q: When is a sprint complete?
 
-X When all tasks are complete.
+○ When the sprint duration ends.  For example, if sprints are 2 weeks long, then the sprint is complete at the end of those 2 weeks.
+When all tasks are complete.
 When all committed product backlog items meet their definition of done.
 It depends.
-When the sprint duration ends.  For example, if sprints are 2 weeks long, then the sprint is complete at the end of those 2 weeks.
 
 Q: Which of the following are goals of the daily stand-up meeting?
 
@@ -63,9 +63,9 @@ Remove every single impediment in this meeting.
 
 Q: Which of following is true about Sprint Reviews?
 
+○ Individual team members should be encouraged to demo the work they did.
 Only team members attend the Sprint Review.
-X The Sprint Review is to show stakeholders the documentation and design. The demo should be given to customer before the sprint review.
-Individual team members should be encouraged to demo the work they did.
+The Sprint Review is to show stakeholders the documentation and design. The demo should be given to customer before the sprint review.
 The Sprint Review should be done every week even if your sprint duration is 3 weeks or longer.
 
 Q: Which of the following statements are true about the Sprint Retrospective? (select all that apply)
