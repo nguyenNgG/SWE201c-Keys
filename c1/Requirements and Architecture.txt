@@ -38,6 +38,10 @@ Communication between the client and server will be expressed in EBCDIC endoding
 The developing team shall use the spiral model of software development lifecycle.
 The messages between the client and server shall be in YAML 1.2 format. 
 
+
+Environment: WR
+Overlap: S
+System: PM
 Q: What element(s) of the WRSPM model belong in the interface (i.e. the overlap between environment and system)?
 ○ S
 Q: What element(s) of the WRSPM model belong in the system (including the overlap between environment and system)?
