@@ -10,6 +10,7 @@ Q: Up until now, the great state of Foo has held a lottery to help fund educatio
 Q: Within the Custodial Management System, there are are a variety of items that are being watched at any given time. Certain items can receive notifications that a response is needed immediately (rather than just tracking whether the regular upkeep has been done that week/month/etc.). These items may then need one of several possible actions: rapid cleaning, bodily fluid containment and/or removal, addressing traction/slip-danger, urgent repair, etc. Each of these actions fit the same profile (action) but not necessarily the same steps.Which pattern would fit well as a solution to this systems needs?
 
 ○ Observer
+
 Q: Early in our proof-of-concept work on the new game we are building, we effectively hard-coded the game to ask the user what action to take next, for both players. In this case, both users are tied into a single account, so that we can play against ourselves while we build out the game.Now, however, we want to add a new player type to the system, EasyDifficultyBot. While the \"player\" actions fit the same high-level format for both humans and our AI, the details of making it happen vary pretty widely.In order to allow for this change, we want to make use of a pattern that will allow this kind of expansion while minimizing changes to the existing code.What pattern would be best here?
 
 ○ Strategy
