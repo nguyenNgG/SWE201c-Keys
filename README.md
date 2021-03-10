@@ -3,5 +3,5 @@
 X Wrong
 
 W.I.P.
-• Quality in Design.txt
-• Quality in Implementation.txt 
+• Quality in Design.txt 94%
+• Quality in Implementation.txt 93%
