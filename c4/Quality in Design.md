@@ -1,6 +1,6 @@
 #### Q: The logical (intended) dependency is that observer depends on subject.
 
-- [x] True
+- [x] ***True***
 - [ ] False
 
 #### Q: Up until now, the great state of Foo has held a lottery to help fund education in the state. The corporation tasked with the drawing of these numbers (the non-televised ones) is XYZ Numerical Tasking.  You are the technical lead for the system which handles the drawings for the state's lotteries. One of your developers, with a mathematical tilt, comes to you with a proposal: change how the random numbers are generated. He suggests that the generation of random numbers could be better. NASA has released a random number generator which has been proven to be better than the one used by the company. He suggests that you make the change. One of your more senior developers notes that using the new generator will require a change. He suggests that the team connect the existing lotto system, as seen in Figure 1, to the new generator (Figure 2) using the Facade pattern. Figure 1 Figure 2 Facade, which seeks to simplify complex processes for a client by providing a API which hides the complicated calls/work needed, doesn't seem to fit.  What pattern does?
@@ -17,7 +17,7 @@
 
 #### Q: Consider the statement \"In the Strategy pattern, the context should hold references to the ConcreteStrategies.\"Under what circumstances would this be true? Select all that apply.
 
-- [x] When the context is tasked with deciding which strategy to use
+- [x] ***When the context is tasked with deciding which strategy to use***
 - [ ] When using a Factory object to create Strategies
 - [ ] Under no circumstances should the Context hold references to the ConcreteStrategies
 - [ ] When the client is tasked with deciding which strategy to use
@@ -26,26 +26,26 @@
 #### Q: In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.
 
 - [ ] True
-- [x] False
+- [x] ***False***
 
 #### Q: Once a class has been had an Adapter pattern solution applied, it cannot be adapted again.
 
 - [ ] True
-- [x] False
+- [x] ***False***
 
 #### Q: Factories are no longer useful when you apply the Strategy Pattern to a family of algorithms.
 
 - [ ] True
-- [x] False
+- [x] ***False***
 
 #### Q: Observer is an implementation of the Dependency Inversion principle.
 
-- [x] True
+- [x] ***True***
 - [ ] False
 
 #### Q: Strategy Pattern helps maintain the Open/Closed Principle.
 
-- [x] True
+- [x] ***True***
 - [ ] False
 
 #### Q: Notes: For questions 11-14, the diagram is a standard UML Class Diagram. You can view a larger version by right clicking and selecting \"View image\" (or similar) or by holding on the image and selecting \"Open image in new tab\" (or similar) if you're on mobile. Use up to 3 significant digits (e.g. .5 for 1/2 and .333 for 1/3 are acceptable).For the following class diagram, calculate the Instability value for the Bus class. 
