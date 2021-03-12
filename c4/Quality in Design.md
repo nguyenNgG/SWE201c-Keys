@@ -1,7 +1,7 @@
 #### Q: The logical (intended) dependency is that observer depends on subject.
 
-○ True<br/>
-False
+- [x] True<br/>
+- [ ] False
 
 #### Q: Up until now, the great state of Foo has held a lottery to help fund education in the state. The corporation tasked with the drawing of these numbers (the non-televised ones) is XYZ Numerical Tasking.  You are the technical lead for the system which handles the drawings for the state's lotteries. One of your developers, with a mathematical tilt, comes to you with a proposal: change how the random numbers are generated. He suggests that the generation of random numbers could be better. NASA has released a random number generator which has been proven to be better than the one used by the company. He suggests that you make the change. One of your more senior developers notes that using the new generator will require a change. He suggests that the team connect the existing lotto system, as seen in Figure 1, to the new generator (Figure 2) using the Facade pattern. Figure 1 Figure 2 Facade, which seeks to simplify complex processes for a client by providing a API which hides the complicated calls/work needed, doesn't seem to fit.  What pattern does?
 
